@@ -1,0 +1,3 @@
+[submodule "sdk-ant"]
+	path = sdk-ant
+	url = https://github.com/ant-nrfconnect/sdk-ant.git
